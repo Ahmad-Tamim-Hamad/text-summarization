@@ -17,7 +17,7 @@ This project is a text summarization tool built with **LangChain**, **OpenAI**, 
 ---
 
 <details>
-<summary><strong>🚀 Quickstart</strong></summary>
+<summary><strong>Quickstart</strong></summary>
 
 ### 1. Clone the Repository
 
