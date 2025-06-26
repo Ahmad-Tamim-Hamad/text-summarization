@@ -39,8 +39,12 @@ conda activate txtsum
 ### 3. install the requirments
 
 ```bash
-pip install requirments.txt
+pip install -r requirements.txt
+
 ```
 
+### 4. Run the pipeline using streamlit
 
-
+```bash
+streamlit run ui/streamlit_app.py
+```
