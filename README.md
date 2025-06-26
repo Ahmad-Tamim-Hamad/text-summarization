@@ -1,5 +1,9 @@
-# LangChain Text Summarization
+![Repo Size](https://img.shields.io/github/repo-size/Ahmad-Tamim-Hamad/text-summarization)
+![Stars](https://img.shields.io/github/stars/Ahmad-Tamim-Hamad/text-summarization?style=social)
+![Last Commit](https://img.shields.io/github/last-commit/Ahmad-Tamim-Hamad/text-summarization)
+![License](https://img.shields.io/github/license/Ahmad-Tamim-Hamad/text-summarization)
 
+# LangChain Text Summarization
 
 The main purpose of this project is to demonstrate how LangChain can be integrated with a language model. It serves as a simple starting point for working with LangChain.
 This project is a text summarization tool built using **LangChain**, **OpenAI**, and **Streamlit**. It allows users to input any text and receive a concise summary, accessible via both a web interface and the command line.
